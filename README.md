@@ -2,7 +2,6 @@
 # Task 1 — Local Network Port Scan
 
 **Author:** <RAF>
-**Date:** $(Get-Date -Format yyyy-MM-dd)
 
 ## Description
 This repo contains the outputs of my local network port scan (Nmap) and optional packet captures.

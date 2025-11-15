@@ -1,7 +1,7 @@
 @"
 # Task 1 — Local Network Port Scan
 
-**Author:** <your name>
+**Author:** <RAF>
 **Date:** $(Get-Date -Format yyyy-MM-dd)
 
 ## Description
